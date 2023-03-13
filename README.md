@@ -1,3 +1,4 @@
 # MacOwusu.github.io
 Projects
-hi
+
+# Project 1
