@@ -8,4 +8,3 @@ The link above includes a project in which a classmate and I used RStudio to imp
 # [Project 2](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/Final%20Project%20397a.ipynb)
 Performed statistical analysis such as Clustering and Classification using python on Visual Studio Code on a database with a dataset of a financial well-being survey. SQL was also used to retrieve and manipulate the database to show the numbers and ranges used. 
 [SQL Portion](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/--%20SQLite.sql) 
-[Writeup](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/writeup.pdf)
