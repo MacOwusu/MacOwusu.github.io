@@ -24,7 +24,6 @@ SELECT FWBscore, KH7correct  from NFWBS where FWBscore < 54 and KH7correct = 0;
 --More people with a score lower than average(54) got it incorrect
 
 SELECT generation, LIFEEXPECT from NFWBS where LIFEEXPECT >= 0 and generation = 4;
---[*FINISH*]
 --1=Pre-Boomer, 2=Boomer, 3=Gen X, 4=Millenial
 --Life Expectancy scale from 0-100
 --Pre-Boomers were super confident majority of answer were above 50% LOL
