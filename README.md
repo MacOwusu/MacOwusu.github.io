@@ -6,6 +6,6 @@ The link above includes a project in which a classmate and I used RStudio to imp
 In this link above there were statistical analysis performed such as Clustering and Classification using python on Visual Studio Code using a dataset of a financial well-being survey. The main goal of this project was to see how poverty status and education were related to ones well-being. SQL was also used to retrieve and manipulate the database to show the numbers and ranges used, and several visualizations were made to compare different factors. 
 [SQL Portion](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/--%20SQLite.sql) 
 
-# [Keyboard Master](https://kbmstr.com/), [Writeup](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/ACM_Conference_Proceedings_Primary_Article_Template__4_.pdf), Fall 2022 
+# [Keyboard Master](https://kbmstr.com/), [Writeup](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/ACM_Conference_Proceedings_Primary_Article_Template__4_.pdf), Fall 2022
 The link above is a website made using HTML, CSS, and Javascript.
 
