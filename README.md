@@ -1,4 +1,5 @@
-# All titles are links to each project
+# Mac's Project Portfolio
+`All titles are links to each project`
 
 
 # [Predicting the Scope of Life Expectancy in the World](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/FinalProjectRMD.pdf), Spring 2022
