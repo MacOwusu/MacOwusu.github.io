@@ -9,5 +9,5 @@ In this link above there were statistical analysis performed such as Clustering 
 # [Keyboard Master](https://kbmstr.com/), [Writeup](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/ACM_Conference_Proceedings_Primary_Article_Template__4_.pdf), Fall 2022
 The link above is a website made using HTML, CSS, and Javascript.
 
-# [Clustering]
-This is a project where I practiced clustering by taking a dataset with various data of Massachusetts and isolating the specific information I wanted. My goal was to find the correlation between a town's violent crimes per 1,000 residents based on the the number of gun license holders per 1,000 residents. Using pandas and sklearn I was able to select 3 columns as variables and separate them into 5 clusters and draw conclusions from the data. 
+# [Clustering](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/mass_cluster.ipynb) Fall 2022
+This is a project where I took dataset with various data of Massachusetts and isolated the specific information I wanted. My goal was to find the correlation between a town's violent crimes per 1,000 residents based on the the number of gun license holders and police spending per 1,000 residents. Using pandas and sklearn I was able to perform hierarchical clustering on this dataset with five clusters using the "average" linkage method. I selected those 3 columns and separated them into 5 clusters and drew conclusions from the results that can be found on the bottom of the code. 
