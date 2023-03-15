@@ -14,5 +14,5 @@ The link above is a website made using HTML, CSS, and Javascript.
 # [Clustering](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/mass_cluster.ipynb) Fall 2022
 This is a project where I took dataset with various data of Massachusetts and isolated the specific information I wanted. My goal was to find the correlation between a town's violent crimes per 1,000 residents based on the the number of gun license holders and police spending per 1,000 residents. Using pandas and sklearn I was able to perform hierarchical clustering on this dataset with five clusters using the "average" linkage method. I selected those 3 columns and separated them into 5 clusters and drew conclusions from the results that can be found on the bottom of the code. 
 
-# [Data Cleaning](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/hospital_map.ipynb)
-In this project 
+# [Data Cleaning](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/hospital_map.ipynb) Fall 2022
+In this project I imported the libraries pandas, geopy, and plotly.express, and read in two data files, "hospital_locs.tsv" and "hospital_sizes.tsv". I then performed some data cleaning by removing commas and converting string values to integer values in the columns. I then concatenated the two data sets based on their index and assigned the results to the variable "hosp_df". Once that was finished I then performed more data cleaning on the "hosp_df" dataset and then plotted it to an interactive scatter plot on a map that I created as well using plotly and mapbox.
