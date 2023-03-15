@@ -3,9 +3,7 @@
 
 
 # [Predicting the Scope of Life Expectancy in the World](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/FinalProjectRMD.pdf), Spring 2022
-The link above includes a project in which a classmate and I used RStudio to import two datasets that included life expectancy in the United States as well as life expectancy in the world to create multiple visuals and residual plots that helped us draw inferences on life expectancy in the US vs the world considering factors such as country status, sex, race, and diseases. An example of one of the visuals created lies below:
-
-![](/images/download%20(1).png)
+The link above includes a project in which a classmate and I used RStudio to import two datasets that included life expectancy in the United States as well as life expectancy in the world to create multiple visuals and residual plots that helped us draw inferences on life expectancy in the US vs the world considering factors such as country status, sex, race, and diseases. 
 
 
 # [Financial Well-Being and Education](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/Final%20Project%20397a.ipynb), [SQL Portion](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/--%20SQLite.sql) Winter 2022
