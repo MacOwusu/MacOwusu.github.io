@@ -13,6 +13,10 @@ This is a Python script that uses the requests library to make API calls to the 
 # [SQL Case Study](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/SQL%20CS%232.pdf) Spring 2023
 The link leads to a SQL case study that was assigned with questions in which I executed the statements in DB Browser. Once the statements were executed I copied and pasted the queries into the microsoft word document along with a screenshot of the output. The page consists of queries, nested queries, aliases, and aggregatation to show the correct output.
 
+# [Data Warehousing Project](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/CS%20-%20MultiDimensional%20Modeling%20Answer%20Sheet(2).pdf) Spring 2023
+This project consists of a data warehouse for ZAGI Retail Company Scenario. There are 3 separate star schema model created to answer each question using ERDPlus.
+Once the star schemas were made using ERDPlus they were screenshotted and put onto the word doc before submission. 
+
 
 # [Clustering](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/mass_cluster.ipynb) Fall 2022
 This is a project where I took dataset with various data of Massachusetts and isolated the specific information I wanted. My goal was to find the correlation between a town's violent crimes per 1,000 residents based on the the number of gun license holders and police spending per 1,000 residents. Using pandas and sklearn I was able to perform hierarchical clustering on this dataset with five clusters using the "average" linkage method. I selected those 3 columns and separated them into 5 clusters and drew conclusions from the results that can be found on the bottom of the code. 
