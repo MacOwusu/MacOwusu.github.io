@@ -11,7 +11,7 @@ In this project I imported the libraries pandas, geopy, and plotly.express, and 
 This is a Python script that uses the requests library to make API calls to the cloud based platform M3O. The code retrieves information on holidays and weather forecasts for various countries and writes the data to a CSV file.
 
 # [SQL Case Study](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/SQL%20CS%232.pdf) Spring 2023
-The link leads to a SQL case study that was assigned with questions in which I executed the statements in DB Browser. Once the statements were executed I copied the code into the microsoft word document along with a screenshot of the output. The page consists of queries, nested queries, aliases, and aggregatation.
+The link leads to a SQL case study that was assigned with questions in which I executed the statements in DB Browser. Once the statements were executed I copied and pasted the queries into the microsoft word document along with a screenshot of the output. The page consists of queries, nested queries, aliases, and aggregatation to show the correct output.
 
 
 # [Clustering](https://github.com/MacOwusu/MacOwusu.github.io/blob/main/mass_cluster.ipynb) Fall 2022
